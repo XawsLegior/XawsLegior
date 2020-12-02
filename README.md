@@ -31,21 +31,21 @@ Meu nome é Welson, sempre tive programação como hobby e agora estou levando p
  
 # Idéias de projetos futuros
 <br>
- - Monitor de casos de Covid no Brasil
+ <b>- Monitor de casos de Covid no Brasil</b>
 
- - Obter informações sobre jogo steam 
+ <b>- Obter informações sobre jogo steam </b>
 <br>
 - Programa onde você adiciona nome de jogos, configura algumas informações a buscar como preço e o mesmo passa a ser monitorado, caso esteja no valor informado é enviado um e-mail pra pessoa.
  <br>
 - Mostra lançamentos por categoria
 <br>
 
- - Programa Preview
+ <b>- Programa Preview </b>
 <br>
- - Programa pra reconstruir um site ou página no mesmo em tempo real enquanto você coda.
+- Programa pra reconstruir um site ou página no mesmo em tempo real enquanto você coda.
 <br>
 
- - Buscador de vulns (Programa para scanear vulnerabilidades em um site)
+ <b>- Buscador de vulns (Programa para scanear vulnerabilidades em um site) </b>
 <br>
 - SQL
 <br>
@@ -80,8 +80,7 @@ Meu nome é Welson, sempre tive programação como hobby e agora estou levando p
 - Infecção de logs
 <br>
 - retorno de informações sobre usuários (nick, email, etc)
-<br>
 
- - Script de segurança
+ <b>- Script de segurança</b>
 - Script para bloquear brute que varre diretórios do site
 <br>
