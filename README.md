@@ -15,7 +15,7 @@ Meu nome é Welson, sempre tive programação como hobby e agora estou levando p
 <br>
 ⭐️ Banco de Dados
 <br>
-🛡️ PENTEST
+🛡️ PENTEST BÁSICO
 <br><br>
 
 🧰 GIT
