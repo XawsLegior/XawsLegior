@@ -9,7 +9,7 @@ Meu nome é Welson, sempre tive programação como hobby e agora estou levando p
 <br>
 ⭐️ CSS
 <br>
-⭐️ BOOTSTRAP
+⭐️ LARAVEL
 <br>
 ⭐️ PHP
 <br>
