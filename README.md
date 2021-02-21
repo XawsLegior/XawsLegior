@@ -65,6 +65,4 @@ Meu nome é Welson, sempre tive programação como hobby e agora estou levando p
  - Infecção de logs
  - retorno de informações sobre usuários (nick, email, etc)
 
- <b>🔨 Script de segurança</b>
- - Script para bloquear brute que varre diretórios do site
 <br>
