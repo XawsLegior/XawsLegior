@@ -25,10 +25,6 @@ Meu nome é Welson, sempre tive programação como hobby e agora estou levando p
 👨🏻‍💻 PYTHON
 <br>
 👨🏻‍💻 C
-
-## Trabalhando atualmente em
-- Site Nanan Store
-- Bot do discord Lonely Crow
  
 # ⌨️ Idéias de projetos futuros
 <br>
