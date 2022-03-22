@@ -5,23 +5,23 @@
 Meu nome é Welson, sempre tive programação como hobby e agora estou levando para o lado profissional.
 
 # Minhas habilidades
-⭐️ HTML
+⭐️ Criação de site (html, php, css, javascript)
 <br>
-⭐️ CSS
+⭐️ Banco de Dados Relacionais
 <br>
-⭐️ LARAVEL
-<br>
-⭐️ PHP
-<br>
-⭐️ Banco de Dados
-<br>
-🛡️ PENTEST BÁSICO
+🛡️ Teste de intrusão web básico
 <br><br>
 
-🧰 GIT
+🌐 Criação de WebService
 <br>
-🧰 GITHUB
+🔋 Criação e Consumo de API
 <br>
-👨🏻‍💻 PYTHON
+🧰 Versionamento git
 <br>
-👨🏻‍💻 C
+🐍 Python
+<br>
+💻 C, básico
+<br>
+🍷 Linux, básico
+<br><br>
+Meu site portfólio: https://welson.tk
