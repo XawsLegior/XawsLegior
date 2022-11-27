@@ -5,9 +5,13 @@
 Meu nome é Welson, sempre tive programação como hobby e agora estou levando para o lado profissional.
 
 # Minhas habilidades
-⭐️ Criação de site (html, php, css, javascript)
+🐍 Python
 <br>
-⭐️ Banco de Dados Relacionais
+💻 Java
+<br>
+⭐️ Criação de site (html, php, css e javascript)
+<br>
+⭐️ Banco de Dados Relacional
 <br>
 🛡️ Teste de intrusão web básico
 <br><br>
@@ -17,10 +21,6 @@ Meu nome é Welson, sempre tive programação como hobby e agora estou levando p
 🔋 Criação e Consumo de API
 <br>
 🧰 Versionamento git
-<br>
-🐍 Python
-<br>
-💻 C, básico
 <br>
 🍷 Linux, básico
 <br><br>
