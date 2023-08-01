@@ -26,11 +26,11 @@
 <br>
 💻 Java
 <br>
-⭐️ Criação de site (html, php, css e javascript)
+⭐️ Criação de site (html, php, css e javascript...)
 <br>
 ⭐️ Banco de Dados Relacional
 <br>
-🛡️ Teste de intrusão web básico
+🛡️ Pentest Web
 <br><br>
 
 🌐 Criação de WebService
@@ -39,7 +39,9 @@
 <br>
 🧰 Versionamento git
 <br>
-🍷 Linux, básico
+🍷 Linux
+<br>
+🪟 Windows
 <br><br>
 
 <img src="https://cdn.icon-icons.com/icons2/1827/PNG/512/4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" title="Acessar" width="200px" height="200px"/>
